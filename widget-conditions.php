@@ -862,3 +862,8 @@ class ClassicPress_Widget_Conditions {
 }
 
 add_action( 'init', array( 'ClassicPress_Widget_Conditions', 'init' ) );
+
+/**
+ * The majority of this code is from,
+ * https://jetpack.com/support/widget-visibility/
+ */
