@@ -2,7 +2,7 @@
 
 /**
  *
- * @link       https://github.com/mathewcallaghan/
+ * @link       https://github.com/mathewcallaghan/classicpress-widget-conditions
  * @since      1.0.0
  *
  * @package    ClassicPress_Widget_Conditions

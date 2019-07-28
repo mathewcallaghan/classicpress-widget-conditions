@@ -1,12 +1,12 @@
 <?php
 /**
- * @link              https://github.com/mathewcallaghan/
+ * @link              https://github.com/mathewcallaghan/classicpress-widget-conditions
  * @since             1.0.0
  * @package           ClassicPress_Widget_Conditions
  *
  * @wordpress-plugin
  * Plugin Name:       Widget Conditions
- * Plugin URI:        https://github.com/mathewcallaghan/
+ * Plugin URI:        https://github.com/mathewcallaghan/classicpress-widget-conditions
  * Description:       Control where widgets appear on your site.
  * Version:           1.0.0
  * Author:            Mathew Callaghan
