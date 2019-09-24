@@ -330,7 +330,7 @@ class ClassicPress_Widget_Conditions {
 									<option value="<?php echo esc_attr( $rule['minor'] ); ?>" selected="selected"></option>
 								</select>
 
-								<span class="conditions-rule-has-children" 
+								<span class="conditions-rule-has-children"
 								<?php
 								if ( ! $rule['has_children'] ) {
 									?>
