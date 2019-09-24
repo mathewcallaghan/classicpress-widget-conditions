@@ -8,11 +8,12 @@
  * Plugin Name:       Widget Conditions
  * Plugin URI:        https://github.com/mathewcallaghan/classicpress-widget-conditions
  * Description:       Control where widgets appear on your site.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Mathew Callaghan
  * Author URI:        https://mathew.callaghan.xyz/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
+ * GitHub Plugin URI: mathewcallaghan/classicpress-widget-conditions
  * Text Domain:       cp-widget-conditions
  * Domain Path:       /languages
  */
