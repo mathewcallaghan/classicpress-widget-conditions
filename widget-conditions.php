@@ -276,7 +276,7 @@ class ClassicPress_Widget_Conditions {
 			<?php
 			if ( ! isset( $_POST['widget-conditions-visible'] ) ) {
 				?>
-				<a href="#" class="button display-options"><?php _e( 'Visibility', 'cp-widget-conditions' ); ?></a><?php } ?>
+				<a href="#" class="button display-options"><?php _e( 'Conditions', 'cp-widget-conditions' ); ?></a><?php } ?>
 			<div class="widget-conditional-inner">
 				<div class="condition-top">
 					<?php printf( _x( '%s if:', 'placeholder: dropdown menu to select widget visibility; hide if or show if', 'cp-widget-conditions' ), '<select name="conditions[action]"><option value="show" ' . selected( $conditions['action'], 'show', false ) . '>' . esc_html_x( 'Show', 'Used in the "%s if:" translation for the widget visibility dropdown', 'cp-widget-conditions' ) . '</option><option value="hide" ' . selected( $conditions['action'], 'hide', false ) . '>' . esc_html_x( 'Hide', 'Used in the "%s if:" translation for the widget visibility dropdown', 'cp-widget-conditions' ) . '</option></select>' ); ?>
